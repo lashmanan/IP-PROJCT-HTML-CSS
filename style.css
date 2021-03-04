@@ -143,6 +143,7 @@ main{
     font-weight:bold;
     height: 200px;
     align-items: stretch;
+
     
 
 
@@ -155,6 +156,8 @@ main{
     float: left;
     height: 100vh;
     
+    border: 1px solid  #f7d9d9;
+    
     color: rgb(226, 41, 9);
     flex-basis: 25%;
 }
@@ -163,6 +166,7 @@ main{
      font-family:'Times New Roman', Times, serif;
      text-align: center;
      justify-content:center;
+     
      color: black;
 }
 #father{
@@ -172,6 +176,7 @@ main{
     float: right;
     justify-content: center;
     text-indent: initial;
+    
     
     color:black; 
     height:100 vh;
@@ -189,11 +194,15 @@ h3
     font-family: 'Roboto', sans-serif;
     color:black;
     
+    
 }
 h1
-
+#ft{
+    border: 1px solid  #f7d9d9;
+}
 #tm{
     text-align: justify;
+    border: 1px solid white;
 } 
 #hd{
     color:black;
@@ -201,6 +210,7 @@ h1
 
 p{
     font-family: 'Roboto', sans-serif;
+    border: 1px solid  #f7d9d9;
 }
 #b{
 color:rgb(226, 41, 9);
@@ -213,6 +223,7 @@ color:rgb(226, 41, 9);
     
     height: auto;
     width: auto;
+    border: 1px solid  #f7d9d9;
     
 
 }
