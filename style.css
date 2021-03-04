@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Roboto:ital,wght@0,700;0,900;1,100;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Oswald:wght@200;500&display=swap');
 
 header{
 
@@ -163,14 +162,14 @@ main{
 }
 #define{
     font: optional;
-     font-family:'Times New Roman', Times, serif;
+     font-family:  'Oswald', sans-serif;
      text-align: center;
      justify-content:center;
      
      color: black;
 }
 #father{
-    font-family: arial,sanserig;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     font-style: initial;
     float: right;
@@ -178,12 +177,13 @@ main{
     text-indent: initial;
     
     
+    
     color:black; 
     height:100 vh;
     width: 40%;
     }
 
-    
+ 
 
 
 
@@ -199,6 +199,7 @@ h3
 h1
 #ft{
     border: 1px solid  #f7d9d9;
+    background-color: #edeef7 ;
 }
 #tm{
     text-align: justify;
@@ -228,12 +229,13 @@ color:rgb(226, 41, 9);
 
 }
 input{
-height: 1cm;
+height:   1cm;
 width: auto;
 }
-button{
+#but{
     height: 1cm;
     width: 5cm;
+    border-radius: 30px;
     background-color: black;
     color: blanchedalmond;
 }
