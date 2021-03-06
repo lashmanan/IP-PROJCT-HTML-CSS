@@ -502,7 +502,7 @@ main{
     width: 35%;
     font-size: smaller;
     position: relative;
-    left: 8%;
+    right: 7%;
 
     
     border: 1px solid  #f7d9d9;
@@ -518,7 +518,8 @@ main{
    font-size: small;
    color: black;
    position: relative;
-   left: 9%;
+   right: 5%;
+   width: 6cm;
    
 }
 #define h1{
@@ -540,7 +541,7 @@ font-weight: 100;
 #define p{
 border: 1px solid #9fb8ad;
 background-color: #dddddd;
-left:0.5%;
+left:4;
 }
 #father{
   
@@ -555,7 +556,7 @@ font-size: small;
   color:black; 
   height: 80vh;
   position: relative;
-  left: 10%;
+  left: 0.5%;
   width: 3cm;
   }
   
@@ -678,7 +679,7 @@ background: #46C1F6;
 footer{
   background-color: #b34180;
   position: relative;
-  top: 33cm;
-  height: 5cm;
+  top: 45cm;
+  height: 4cm;
 }
 }
